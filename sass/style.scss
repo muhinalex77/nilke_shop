@@ -1,0 +1,15 @@
+@import 'base/variables';
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+@import 'blocks/header';
+@import 'blocks/main';
+@import 'blocks/footer';
+@import 'blocks/shoes';
+@import 'blocks/media';
